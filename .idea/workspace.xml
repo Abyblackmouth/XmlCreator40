@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e38ce2-750d-4106-b29d-c1619747d5c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/uploads/Copia_de_Legal_CNCI.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_AZTECA_2025.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_MEXVATRA_2025.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_3.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_4.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_TODITO_2025_1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_TRASVAMEX_2025_1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/Reporte_de_analisis_de_ventas_sale.report.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/SAT_AGO_REA_2024.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/SAT_DIC_REA_2024.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/SAT_ENE_REA_2025.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/SAT_SEP_REA_2024.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_GRUPO_DE_ADMINISTRACION_Y_SEGU_202503.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202408.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202409.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202412.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202501.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_TODITO_PAGOS_SA_DE_CV_INSTITUC_202503.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_TRASVAMEX_202503.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/plantilla_UIF_3.xlsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/hook-flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installer.iss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +30,9 @@
     <setting file="file://$PROJECT_DIR$/routes/api_routes.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/utils/logger.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vcNF1fPuChiehWLwhHpFTJrmOB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,13 +46,14 @@
     "Python.main.executor": "Run",
     "Python.xml_generator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Cursos/Python/proyectos/XmlCreator40"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Cursos\Python\proyectos\XmlCreator40\static" />
       <recent name="C:\Cursos\Python\proyectos\XmlCreator40" />
+      <recent name="C:\Cursos\Python\proyectos\XmlCreator40\static" />
       <recent name="C:\Cursos\Python\proyectos\XmlCreator40\resources" />
     </key>
   </component>

@@ -1,0 +1,150 @@
+2025-04-14 20:43:16,746 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 20:43:16,754 - INFO - Iniciando servidor Flask...
+2025-04-14 20:43:18,454 - INFO - Acceso a página principal
+2025-04-14 20:43:32,530 - INFO - Procesando archivo: MOD_SAT_MARZO_REA_2025_4.xlsx
+2025-04-14 20:43:32,855 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 20:43:32,875 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 20:43:32,879 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 20:43:32,902 - INFO - Archivo de salida generado: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 20:43:32,903 - INFO - Creando estructura XML base
+2025-04-14 20:43:32,903 - INFO - Mes reportado: 202503
+2025-04-14 20:43:32,904 - INFO - Clave sujeto: SPP111024DH9, Actividad: TCV
+2025-04-14 20:43:32,904 - INFO - Referencia aviso: REA032025, Prioridad: 1
+2025-04-14 20:43:32,905 - INFO - Tipo alerta: 100
+2025-04-14 20:43:32,905 - INFO - Datos de persona moral agregados
+2025-04-14 20:43:32,906 - INFO - Datos de representante agregados
+2025-04-14 20:43:32,906 - INFO - Datos de domicilio agregados
+2025-04-14 20:43:32,907 - INFO - Datos de contacto agregados
+2025-04-14 20:43:32,908 - INFO - Iniciando procesamiento de 231 operaciones
+2025-04-14 20:43:32,911 - INFO - Procesadas 50/231 operaciones
+2025-04-14 20:43:32,915 - INFO - Procesadas 100/231 operaciones
+2025-04-14 20:43:32,919 - INFO - Procesadas 150/231 operaciones
+2025-04-14 20:43:32,924 - INFO - Procesadas 200/231 operaciones
+2025-04-14 20:43:32,927 - INFO - Procesadas 231/231 operaciones
+2025-04-14 20:43:32,927 - INFO - Generando XML final
+2025-04-14 20:43:32,979 - INFO - Archivo XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 20:43:32,979 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 20:43:32,980 - INFO - XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 20:43:36,351 - INFO - Acceso a página principal
+2025-04-14 20:43:38,970 - INFO - Acceso a página principal
+2025-04-14 20:45:27,776 - INFO - Acceso a página principal
+2025-04-14 20:56:03,198 - INFO - Recibida señal de terminación, apagando servidor...
+2025-04-14 20:56:04,339 - WARNING - No se pudo apagar limpiamente: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=1)
+2025-04-14 20:56:04,339 - INFO - Limpiando recursos antes de salir...
+2025-04-14 20:56:04,340 - INFO - Servidor detenido
+2025-04-14 20:56:04,340 - INFO - Limpiando recursos antes de salir...
+2025-04-14 21:23:09,216 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:23:09,223 - INFO - Iniciando servidor Flask...
+2025-04-14 21:23:10,906 - INFO - Acceso a página principal
+2025-04-14 21:23:59,641 - INFO - Acceso a página principal
+2025-04-14 21:24:04,418 - INFO - Procesando archivo: MOD_SAT_MARZO_REA_2025_3.xlsx
+2025-04-14 21:24:04,667 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 21:24:04,672 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 21:24:04,674 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 21:24:04,691 - INFO - Archivo de salida generado: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 21:24:04,692 - INFO - Creando estructura XML base
+2025-04-14 21:24:04,692 - INFO - Mes reportado: 202503
+2025-04-14 21:24:04,692 - INFO - Clave sujeto: SPP111024DH9, Actividad: TCV
+2025-04-14 21:24:04,693 - INFO - Referencia aviso: REA032025, Prioridad: 1
+2025-04-14 21:24:04,693 - INFO - Tipo alerta: 100
+2025-04-14 21:24:04,694 - INFO - Datos de persona moral agregados
+2025-04-14 21:24:04,694 - INFO - Datos de representante agregados
+2025-04-14 21:24:04,695 - INFO - Datos de domicilio agregados
+2025-04-14 21:24:04,695 - INFO - Datos de contacto agregados
+2025-04-14 21:24:04,695 - INFO - Iniciando procesamiento de 231 operaciones
+2025-04-14 21:24:04,699 - INFO - Procesadas 50/231 operaciones
+2025-04-14 21:24:04,703 - INFO - Procesadas 100/231 operaciones
+2025-04-14 21:24:04,707 - INFO - Procesadas 150/231 operaciones
+2025-04-14 21:24:04,710 - INFO - Procesadas 200/231 operaciones
+2025-04-14 21:24:04,713 - INFO - Procesadas 231/231 operaciones
+2025-04-14 21:24:04,713 - INFO - Generando XML final
+2025-04-14 21:24:04,761 - INFO - Archivo XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 21:24:04,761 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 21:24:04,762 - INFO - XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 21:24:13,267 - INFO - Recibida señal de terminación, apagando servidor...
+2025-04-14 21:24:14,387 - WARNING - No se pudo apagar limpiamente: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=1)
+2025-04-14 21:24:14,388 - INFO - Limpiando recursos antes de salir...
+2025-04-14 21:24:14,388 - INFO - Servidor detenido
+2025-04-14 21:24:14,388 - INFO - Limpiando recursos antes de salir...
+2025-04-14 21:59:00,312 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:59:00,317 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 21:59:00,318 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 21:59:08,742 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:59:08,760 - INFO - Iniciando servidor Flask...
+2025-04-14 21:59:10,437 - INFO - Acceso a página principal
+2025-04-14 21:59:15,472 - INFO - Procesando archivo: MOD_SAT_MARZO_REA_2025_3.xlsx
+2025-04-14 21:59:15,820 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 21:59:15,825 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 21:59:15,828 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 21:59:15,845 - INFO - Archivo de salida generado: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 21:59:15,846 - INFO - Creando estructura XML base
+2025-04-14 21:59:15,846 - INFO - Mes reportado: 202503
+2025-04-14 21:59:15,846 - INFO - Clave sujeto: SPP111024DH9, Actividad: TCV
+2025-04-14 21:59:15,847 - INFO - Referencia aviso: REA032025, Prioridad: 1
+2025-04-14 21:59:15,847 - INFO - Tipo alerta: 100
+2025-04-14 21:59:15,847 - INFO - Datos de persona moral agregados
+2025-04-14 21:59:15,848 - INFO - Datos de representante agregados
+2025-04-14 21:59:15,848 - INFO - Datos de domicilio agregados
+2025-04-14 21:59:15,849 - INFO - Datos de contacto agregados
+2025-04-14 21:59:15,849 - INFO - Iniciando procesamiento de 231 operaciones
+2025-04-14 21:59:15,853 - INFO - Procesadas 50/231 operaciones
+2025-04-14 21:59:15,857 - INFO - Procesadas 100/231 operaciones
+2025-04-14 21:59:15,861 - INFO - Procesadas 150/231 operaciones
+2025-04-14 21:59:15,864 - INFO - Procesadas 200/231 operaciones
+2025-04-14 21:59:15,866 - INFO - Procesadas 231/231 operaciones
+2025-04-14 21:59:15,866 - INFO - Generando XML final
+2025-04-14 21:59:15,915 - INFO - Archivo XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 21:59:15,916 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 21:59:15,916 - INFO - XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:10:32,147 - INFO - Recibida señal de terminación, apagando servidor...
+2025-04-14 23:10:33,503 - WARNING - No se pudo apagar limpiamente: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=1)
+2025-04-14 23:10:33,505 - INFO - Limpiando recursos antes de salir...
+2025-04-14 23:10:33,505 - INFO - Servidor detenido
+2025-04-14 23:10:33,507 - INFO - Limpiando recursos antes de salir...
+2025-04-14 23:47:00,575 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:47:00,584 - INFO - Iniciando servidor Flask...
+2025-04-14 23:47:02,422 - INFO - Acceso a página principal
+2025-04-14 23:47:08,411 - INFO - Procesando archivo: plantilla_UIF_4.xlsx
+2025-04-14 23:47:09,071 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 23:47:09,080 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 23:47:09,086 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 23:47:09,094 - ERROR - XML no generado - Error inesperado: single positional indexer is out-of-bounds
+Traceback (most recent call last):
+  File "C:\Cursos\Python\proyectos\XmlCreator40\services\xml_generator.py", line 37, in generar_xml_uif
+    denominacion = persona_df.iloc[0]['denominacion_razon'].replace(' ', '_').replace('.', '')[:30]
+                   ~~~~~~~~~~~~~~~^^^
+  File "C:\Cursos\Python\proyectos\XmlCreator40\.venv\Lib\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Cursos\Python\proyectos\XmlCreator40\.venv\Lib\site-packages\pandas\core\indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Cursos\Python\proyectos\XmlCreator40\.venv\Lib\site-packages\pandas\core\indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+2025-04-14 23:47:09,127 - ERROR - single positional indexer is out-of-bounds
+2025-04-14 23:47:09,136 - INFO - Acceso a página principal
+2025-04-14 23:47:19,828 - INFO - Procesando archivo: MOD_SAT_MARZO_REA_2025_4.xlsx
+2025-04-14 23:47:19,871 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 23:47:19,877 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 23:47:19,884 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 23:47:19,921 - INFO - Archivo de salida generado: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:47:19,921 - INFO - Creando estructura XML base
+2025-04-14 23:47:19,921 - INFO - Mes reportado: 202503
+2025-04-14 23:47:19,921 - INFO - Clave sujeto: SPP111024DH9, Actividad: TCV
+2025-04-14 23:47:19,921 - INFO - Referencia aviso: REA032025, Prioridad: 1
+2025-04-14 23:47:19,924 - INFO - Tipo alerta: 100
+2025-04-14 23:47:19,925 - INFO - Datos de persona moral agregados
+2025-04-14 23:47:19,925 - INFO - Datos de representante agregados
+2025-04-14 23:47:19,928 - INFO - Datos de domicilio agregados
+2025-04-14 23:47:19,928 - INFO - Datos de contacto agregados
+2025-04-14 23:47:19,930 - INFO - Iniciando procesamiento de 231 operaciones
+2025-04-14 23:47:19,938 - INFO - Procesadas 50/231 operaciones
+2025-04-14 23:47:19,946 - INFO - Procesadas 100/231 operaciones
+2025-04-14 23:47:19,952 - INFO - Procesadas 150/231 operaciones
+2025-04-14 23:47:19,962 - INFO - Procesadas 200/231 operaciones
+2025-04-14 23:47:19,969 - INFO - Procesadas 231/231 operaciones
+2025-04-14 23:47:19,969 - INFO - Generando XML final
+2025-04-14 23:47:20,092 - INFO - Archivo XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:47:20,092 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 23:47:20,092 - INFO - XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:47:23,188 - INFO - Acceso a página principal

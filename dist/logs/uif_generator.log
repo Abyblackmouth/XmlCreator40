@@ -1,0 +1,182 @@
+2025-04-14 21:44:07,890 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:44:07,895 - INFO - Iniciando servidor Flask...
+2025-04-14 21:44:09,619 - INFO - Acceso a página principal
+2025-04-14 21:46:30,042 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:46:30,044 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 21:46:30,045 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 21:47:58,135 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:47:58,137 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 21:47:58,138 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 21:48:20,085 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:48:20,091 - INFO - Iniciando servidor Flask...
+2025-04-14 21:48:21,782 - INFO - Acceso a página principal
+2025-04-14 21:50:43,613 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:50:43,618 - INFO - Iniciando servidor Flask...
+2025-04-14 21:50:45,295 - INFO - Acceso a página principal
+2025-04-14 21:50:54,445 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:50:54,447 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 21:50:54,447 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 21:51:01,155 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:51:01,161 - INFO - Iniciando servidor Flask...
+2025-04-14 21:51:02,866 - INFO - Acceso a página principal
+2025-04-14 21:51:13,839 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:51:13,845 - INFO - Iniciando servidor Flask...
+2025-04-14 21:51:15,531 - INFO - Acceso a página principal
+2025-04-14 21:58:15,548 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 21:58:15,554 - INFO - Iniciando servidor Flask...
+2025-04-14 21:58:17,250 - INFO - Acceso a página principal
+2025-04-14 21:58:22,386 - INFO - Procesando archivo: MOD_SAT_MARZO_TRASVAMEX_2025_1.xlsx
+2025-04-14 21:58:22,402 - ERROR - XML no generado - Error inesperado: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+Traceback (most recent call last):
+  File "pandas\compat\_optional.py", line 135, in import_optional_dependency
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "services\xml_generator.py", line 20, in generar_xml_uif
+  File "pandas\io\excel\_base.py", line 1567, in __init__
+  File "pandas\io\excel\_openpyxl.py", line 552, in __init__
+  File "pandas\compat\_optional.py", line 138, in import_optional_dependency
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 21:58:22,403 - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 21:58:22,407 - INFO - Acceso a página principal
+2025-04-14 21:58:28,347 - INFO - Procesando archivo: MOD_SAT_MARZO_TODITO_2025_2.xlsx
+2025-04-14 21:58:28,365 - ERROR - XML no generado - Error inesperado: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+Traceback (most recent call last):
+  File "pandas\compat\_optional.py", line 135, in import_optional_dependency
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "services\xml_generator.py", line 20, in generar_xml_uif
+  File "pandas\io\excel\_base.py", line 1567, in __init__
+  File "pandas\io\excel\_openpyxl.py", line 552, in __init__
+  File "pandas\compat\_optional.py", line 138, in import_optional_dependency
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 21:58:28,366 - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 21:58:28,372 - INFO - Acceso a página principal
+2025-04-14 21:58:48,833 - INFO - Solicitud de descarga de plantilla
+2025-04-14 21:58:48,834 - INFO - Enviando plantilla al cliente
+2025-04-14 23:09:08,391 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:09:08,391 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 23:09:08,391 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 23:09:36,480 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:09:36,480 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 23:09:36,483 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 23:10:04,859 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:10:04,861 - ERROR - Error al verificar el puerto: [WinError 10048] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+2025-04-14 23:10:04,862 - ERROR - ¡Error! Ya hay una instancia del servidor en ejecución.
+2025-04-14 23:10:45,590 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:10:45,602 - INFO - Iniciando servidor Flask...
+2025-04-14 23:10:47,454 - INFO - Acceso a página principal
+2025-04-14 23:10:55,825 - INFO - Procesando archivo: MOD_SAT_MARZO_TODITO_2025_2.xlsx
+2025-04-14 23:10:55,855 - ERROR - XML no generado - Error inesperado: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+Traceback (most recent call last):
+  File "pandas\compat\_optional.py", line 135, in import_optional_dependency
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "services\xml_generator.py", line 20, in generar_xml_uif
+  File "pandas\io\excel\_base.py", line 1567, in __init__
+  File "pandas\io\excel\_openpyxl.py", line 552, in __init__
+  File "pandas\compat\_optional.py", line 138, in import_optional_dependency
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:10:55,860 - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:10:55,870 - INFO - Acceso a página principal
+2025-04-14 23:24:29,731 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:24:29,741 - INFO - Iniciando servidor Flask...
+2025-04-14 23:24:31,651 - INFO - Acceso a página principal
+2025-04-14 23:24:37,208 - INFO - Procesando archivo: MOD_SAT_MARZO_TRASVAMEX_2025_1.xlsx
+2025-04-14 23:24:37,246 - ERROR - XML no generado - Error inesperado: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+Traceback (most recent call last):
+  File "pandas\compat\_optional.py", line 135, in import_optional_dependency
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "services\xml_generator.py", line 20, in generar_xml_uif
+  File "pandas\io\excel\_base.py", line 1567, in __init__
+  File "pandas\io\excel\_openpyxl.py", line 552, in __init__
+  File "pandas\compat\_optional.py", line 138, in import_optional_dependency
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:24:37,251 - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:24:37,260 - INFO - Acceso a página principal
+2025-04-14 23:26:08,274 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:26:08,283 - INFO - Iniciando servidor Flask...
+2025-04-14 23:26:10,130 - INFO - Acceso a página principal
+2025-04-14 23:26:14,907 - INFO - Procesando archivo: MOD_SAT_MARZO_TRASVAMEX_2025_1.xlsx
+2025-04-14 23:26:14,933 - ERROR - XML no generado - Error inesperado: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+Traceback (most recent call last):
+  File "pandas\compat\_optional.py", line 135, in import_optional_dependency
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "services\xml_generator.py", line 20, in generar_xml_uif
+  File "pandas\io\excel\_base.py", line 1567, in __init__
+  File "pandas\io\excel\_openpyxl.py", line 552, in __init__
+  File "pandas\compat\_optional.py", line 138, in import_optional_dependency
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:26:14,938 - ERROR - Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-04-14 23:26:14,948 - INFO - Acceso a página principal
+2025-04-14 23:31:48,154 - INFO - Iniciando aplicación XmlCreator40
+2025-04-14 23:31:48,170 - INFO - Iniciando servidor Flask...
+2025-04-14 23:31:50,034 - INFO - Acceso a página principal
+2025-04-14 23:31:55,003 - INFO - Procesando archivo: MOD_SAT_MARZO_REA_2025_3.xlsx
+2025-04-14 23:31:55,261 - INFO - Leyendo hoja 'encabezado'
+2025-04-14 23:31:55,272 - INFO - Leyendo hoja 'persona_moral'
+2025-04-14 23:31:55,351 - INFO - Leyendo hoja 'operaciones'
+2025-04-14 23:31:55,392 - INFO - Archivo de salida generado: C:\Users\ABRAHA~1\AppData\Local\Temp\_MEI178042\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:31:55,394 - INFO - Creando estructura XML base
+2025-04-14 23:31:55,396 - INFO - Mes reportado: 202503
+2025-04-14 23:31:55,396 - INFO - Clave sujeto: SPP111024DH9, Actividad: TCV
+2025-04-14 23:31:55,396 - INFO - Referencia aviso: REA032025, Prioridad: 1
+2025-04-14 23:31:55,400 - INFO - Tipo alerta: 100
+2025-04-14 23:31:55,400 - INFO - Datos de persona moral agregados
+2025-04-14 23:31:55,403 - INFO - Datos de representante agregados
+2025-04-14 23:31:55,403 - INFO - Datos de domicilio agregados
+2025-04-14 23:31:55,403 - INFO - Datos de contacto agregados
+2025-04-14 23:31:55,406 - INFO - Iniciando procesamiento de 231 operaciones
+2025-04-14 23:31:55,413 - INFO - Procesadas 50/231 operaciones
+2025-04-14 23:31:55,424 - INFO - Procesadas 100/231 operaciones
+2025-04-14 23:31:55,434 - INFO - Procesadas 150/231 operaciones
+2025-04-14 23:31:55,444 - INFO - Procesadas 200/231 operaciones
+2025-04-14 23:31:55,449 - INFO - Procesadas 231/231 operaciones
+2025-04-14 23:31:55,449 - INFO - Generando XML final
+2025-04-14 23:31:55,552 - INFO - Archivo XML generado exitosamente: C:\Users\ABRAHA~1\AppData\Local\Temp\_MEI178042\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:31:55,552 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 23:31:55,552 - INFO - XML generado exitosamente: C:\Users\ABRAHA~1\AppData\Local\Temp\_MEI178042\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
+2025-04-14 23:32:03,404 - INFO - Acceso a página principal
+2025-04-14 23:32:05,274 - INFO - Solicitud de descarga de plantilla
+2025-04-14 23:32:05,274 - INFO - Enviando plantilla al cliente
+2025-04-14 23:32:17,079 - INFO - Procesando archivo: Reporte_de_analisis_de_ventas_sale.report_2.xlsx
+2025-04-14 23:32:17,127 - ERROR - XML no generado - Faltan hojas requeridas: encabezado, persona_moral, operaciones
+2025-04-14 23:32:17,128 - INFO - ________________________________________________________________________________________________________________________
+2025-04-14 23:32:17,130 - ERROR - Faltan hojas requeridas: encabezado, persona_moral, operaciones
+2025-04-14 23:32:17,140 - INFO - Acceso a página principal
