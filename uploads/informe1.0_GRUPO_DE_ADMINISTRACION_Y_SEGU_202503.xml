@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<archivo xmlns="http://www.uif.shcp.gob.mx/recepcion/tcv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/tcv tcv.xsd">
+  <informe>
+    <mes_reportado>202503</mes_reportado>
+    <sujeto_obligado>
+      <clave_sujeto_obligado>SPP111024DH9</clave_sujeto_obligado>
+      <clave_actividad>TCV</clave_actividad>
+    </sujeto_obligado>
+  </informe>
+</archivo>
