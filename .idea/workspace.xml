@@ -5,29 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e38ce2-750d-4106-b29d-c1619747d5c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/XmlCreator40.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/template_routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/xml_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/file_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/Copia_de_Legal_CNCI.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_AZTECA_2025.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_MEXVATRA_2025.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_REA_2025_4.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_TODITO_2025_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/MOD_SAT_MARZO_TRASVAMEX_2025_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/Reporte_de_analisis_de_ventas_sale.report.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/SAT_AGO_REA_2024.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/SAT_DIC_REA_2024.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/SAT_ENE_REA_2025.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/SAT_SEP_REA_2024.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_GRUPO_DE_ADMINISTRACION_Y_SEGU_202503.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202408.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202409.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202412.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202501.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_TODITO_PAGOS_SA_DE_CV_INSTITUC_202503.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/informe1.0_TRASVAMEX_202503.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/plantilla_UIF_3.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
