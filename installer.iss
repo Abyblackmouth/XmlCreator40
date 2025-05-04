@@ -1,7 +1,7 @@
 [Setup]
 AppName=XmlCreator40
 AppVersion=1.0
-DefaultDirName={pf}\XmlCreator40
+DefaultDirName={commonpf}\XmlCreator40
 DefaultGroupName=XmlCreator40
 OutputDir=output
 OutputBaseFilename=XmlCreator40_Setup

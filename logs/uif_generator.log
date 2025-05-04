@@ -148,3 +148,4 @@ IndexError: single positional indexer is out-of-bounds
 2025-04-14 23:47:20,092 - INFO - ________________________________________________________________________________________________________________________
 2025-04-14 23:47:20,092 - INFO - XML generado exitosamente: C:\Cursos\Python\proyectos\XmlCreator40\uploads\informe1.0_RED_ESTATAL_DE_AUTOPISTAS_DE_N_202503.xml
 2025-04-14 23:47:23,188 - INFO - Acceso a página principal
+2025-04-14 23:54:49,752 - INFO - Recibida señal de terminación, apagando servidor...

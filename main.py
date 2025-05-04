@@ -57,6 +57,7 @@ def signal_handler(sig, frame):
     try:
         ServerControl.stop_server()
         import requests
+
         requests.post('http://127.0.0.1:5000/shutdown', timeout=1)
     except Exception as e:
         logger.warning(f"No se pudo apagar limpiamente: {str(e)}")
